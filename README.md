@@ -13,7 +13,10 @@
   ![JAVA](https://img.shields.io/badge/JAVA-ED8B00.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
 ![SPRING](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=for-the-badge&logo=SPRING%20BOOT&logoColor=white)
   ![VUE](https://img.shields.io/badge/VUE-4FC08D.svg?&style=for-the-badge&logo=VUE.JS&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![mysql](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <h3>📫 Contact 📫</h3>
   <a href="mailto:tnwlssla20@naver.com"><img src="https://img.shields.io/badge/naver-1EBC8F?style=for-the-badge&logo=naver&logoColor=white"/></a>
