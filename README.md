@@ -7,16 +7,30 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tnwlssla20"/>
   <img src="http://mazandi.herokuapp.com/api?handle=tnwlssla20&theme=warm"/>
 <h3>🚀 Skills 🚀</h3>
-  
+
+  <h4>Language</h4>
+
+  ![JAVA](https://img.shields.io/badge/JAVA-ED8B00.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
   ![PYTHON](https://img.shields.io/badge/PYTHON-14354C.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
   ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
-  ![JAVA](https://img.shields.io/badge/JAVA-ED8B00.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
-![SPRING](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=for-the-badge&logo=SPRING%20BOOT&logoColor=white)
+
+  <h4>Backend</h4>
+  
+  ![SPRING](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=for-the-badge&logo=SPRING%20BOOT&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   ![VUE](https://img.shields.io/badge/VUE-4FC08D.svg?&style=for-the-badge&logo=VUE.JS&logoColor=white)
+  
+  <h4>Frontend</h4>
+  
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+  
+  <h4>DB</h4>
+  
   ![mysql](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <h3>📫 Contact 📫</h3>
   <a href="mailto:tnwlssla20@naver.com"><img src="https://img.shields.io/badge/naver-1EBC8F?style=for-the-badge&logo=naver&logoColor=white"/></a>
